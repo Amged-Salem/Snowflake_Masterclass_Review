@@ -22,7 +22,7 @@
 
 ---
 
-## 1. Big Picture & Project Overview
+## 1. Big Picture 
 
 This study covers two parallel tracks:
 
