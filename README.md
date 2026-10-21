@@ -52,7 +52,6 @@ Snowflake separates three independently scalable layers:
 ### 2.3 Cloud Services Layer ("the brain")
 Manages: metadata · query optimization · security/authentication · transactions · infrastructure management.
 
-> **Interview sentence:** "Snowflake separates Storage, Compute, and Services, allowing each to scale independently so multiple workloads can run on the same data without contention."
 
 ---
 
