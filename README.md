@@ -3,7 +3,7 @@
 
 ##  Table of Contents
 
-1. [Big Picture & Project Overview](#1-big-picture--project-overview)
+1. [Big Picture](#1-big-picture)
 2. [Architecture: The 3 Layers](#2-architecture-the-3-layers)
 3. [Compute — Virtual Warehouses](#3-compute--virtual-warehouses)
 4. [RBAC (Role-Based Access Control)](#4-rbac)
